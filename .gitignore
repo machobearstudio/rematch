@@ -3,8 +3,8 @@ node_modules
 npm-debug.*
 
 # build
-lib
-dist
+#lib
+#dist
 .rpt2_cache
 
 # editor
